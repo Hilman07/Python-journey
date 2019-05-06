@@ -1,0 +1,7 @@
+number=int(input("please input number: "))
+formula=number%2
+
+if(formula==0):
+    print("even")
+else:
+    print("odd")
